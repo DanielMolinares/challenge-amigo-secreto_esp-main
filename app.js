@@ -38,6 +38,6 @@ function sortearAmigo(){
     let resultado = document.getElementById('resultado');
     resultado.innerHTML = `${amigoSorteado} es el amigo secreto`;
 
-    amigo = []; //limpiando lista de amigos
+    amigo = []; //limpiando lista de amigos para poder ingresar nuevos amigos sin refrescar la página
     renderizarAmigos(); // Actualizando la lista de amigos
 }
