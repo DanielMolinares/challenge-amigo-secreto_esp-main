@@ -25,9 +25,6 @@ La aplicación permite:
 3. Repetir el proceso para agregar más amigos.
 4. Hacer clic en "Sortear amigo" para obtener un nombre al azar.
 
-## Captura de pantalla
-![Vista previa](assets/amigo-secreto.png)
-
 ## Autor
 Desarrollado como parte del challenge de **Alura One** por Daniel Eduardo Molinares Mascareño.
 
